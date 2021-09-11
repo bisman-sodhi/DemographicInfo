@@ -16,6 +16,6 @@ std dev mean Y: 8.04
 Correlation Coeff (sample): -0.34
 
 
-Team: Lauren Daniel, Bisman Sodhi, Kyrie Cai
+
 
 We got a correlation coefficient of 0.72 for bachelor's degree or higher and median house value (which is very strong compared to the other coefficients). We also got -0.34 for county poverty level and home ownership while is a weaker correlation, but still pretty substantial.
