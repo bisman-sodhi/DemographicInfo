@@ -18,4 +18,4 @@ Correlation Coeff (sample): -0.34
 
 
 
-We got a correlation coefficient of 0.72 for bachelor's degree or higher and median house value (which is very strong compared to the other coefficients). We also got -0.34 for county poverty level and home ownership while is a weaker correlation, but still pretty substantial.
+The correlation coefficient of 0.72 for bachelor's degree or higher and median house value (which is very strong compared to the other coefficients). The county poverty level and home ownership correlation is -0.34 while is a weaker correlation, but still pretty substantial.
